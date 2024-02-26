@@ -1,5 +1,4 @@
-
-## [academic.odd-even-cli](/)
+## [academic.odd-even-cli](/) ([code 🔗](/app/src/main/java/academic/spring2024/cse106/oddEvenWithRange/App.java))
 
 This repository contains a Java program that prints odd or even numbers within a specified range. Users can either provide all three arguments (group, starting point, ending point) or just a single argument specifying the group. Default values are provided for unspecified arguments.
 
