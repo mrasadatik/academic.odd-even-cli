@@ -20,3 +20,7 @@ We welcome contributions to this project! Feel free to fork the repository and s
 ### License
 
 This project is licensed under the MIT License. See the [`LICENSE`](/LICENSE) file for details.
+
+### Disclaimer
+
+**Please note:** This project currently does not have any automated or unit test implementation. While the program functions as intended, future development efforts might include the addition of testing frameworks for improved code reliability and maintainability.
